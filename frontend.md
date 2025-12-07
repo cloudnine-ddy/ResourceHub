@@ -13,7 +13,8 @@ A list of tools, components, CSS utilities, icons, and code generators useful fo
 ---
 
 ## 🧩 Component Libraries / 组件库
-- (Add your links here)
+- **ReactBits** — Common React UI patterns & components. https://reactbits.dev/
+
 
 ---
 
@@ -23,12 +24,13 @@ A list of tools, components, CSS utilities, icons, and code generators useful fo
 ---
 
 ## 🎞️ Animation Tools / 动效工具
-- (Add your links here)
+- **GSAP** — Industry-standard JavaScript animation library. https://gsap.com/
 
 ---
 
 ## ⚒️ Code Generators / 代码生成器
-- (Add your links here)
+- **Lovable.dev** — AI-powered tool that turns prompts into full apps or code scaffolds. https://lovable.dev/
+
 
 ---
 

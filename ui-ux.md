@@ -8,27 +8,36 @@ A curated collection of design-related tools, inspiration sites, color palette g
 ---
 
 ## 🌟 UI Inspiration / 灵感参考
-- (Add your links here)
+- **Uiverse** — Community-made UI components & inspiration. https://uiverse.io/
+- **Unicorn Studio** — Design beautiful landing pages visually. https://www.unicorn.studio/
+- **UI8 – Omah Real Estate UI Kit** — Premium UI kit for real estate apps. https://ui8.net/aksantara/products/omah---real-estate-ui-kit--app
+
 
 ---
 
 ## 🎨 Color Tools / 配色工具
-- (Add your links here)
+- **ColorFuse AI** — AI color palette generator. https://colorfuseai.com/
+
 
 ---
 
 ## 🛠️ Design Tools / 设计工具
-- (Add your links here)
+- **Pixso** — Online collaborative UI/UX design tool. https://pixso.net/
+- **Uizard** — AI-powered UI design tool for wireframes & prototypes. https://app.uizard.io/
+- **Visily** — AI design tool that turns ideas into UI mockups. https://www.visily.ai/
+
 
 ---
 
 ## 🧩 UI Kits & Components / UI 组件库
-- (Add your links here)
+- **UI8** — Marketplace of premium UI kits and design assets. https://ui8.net/
+
 
 ---
 
 ## 📐 Prototyping Tools / 原型设计工具
-- (Add your links here)
+- **Google Stitch** — UI prototyping & experimental layout tool. https://stitch.withgoogle.com/
+
 
 ---
 

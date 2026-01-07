@@ -32,5 +32,10 @@ Useful learning materials, courses, tutorials, and documentation for design, fro
 
 ---
 
+## 🔢 Algorithms / 算法
+- LeetCodeAnimation — Demonstrate LeetCode problems with animations. / 用动画展示 LeetCode 题解。 https://github.com/MisterBooo/LeetCodeAnimation
+
+---
+
 ## 📝 Notes / 备注
 (Optional)

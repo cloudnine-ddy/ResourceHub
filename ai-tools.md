@@ -22,7 +22,7 @@ A categorized list of AI tools that help with coding, design, research, producti
 - **Visily** — AI-powered UI mockup generator. https://www.visily.ai/
 - **ColorFuse AI** — AI palette generator for design. https://colorfuseai.com/
 - **Recraft AI** — AI platform for generating vector illustrations, icons, and images. https://recraft.ai/
-
+- **next-ai-draw-io** — AI-powered diagramming tool based on Draw.io. / 基于 Draw.io 的 AI 绘图工具。 https://github.com/DayuanJiang/next-ai-draw-io
 
 ---
 

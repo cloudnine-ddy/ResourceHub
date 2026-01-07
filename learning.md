@@ -18,7 +18,7 @@ Useful learning materials, courses, tutorials, and documentation for design, fro
 ---
 
 ## ⚙️ Backend Learning
-- (Add your links here)
+- **Hacksplaining** — Interactive security tutorials for developers to learn about vulnerabilities and defense. / 为开发者提供的互动式安全教程，学习漏洞原理与防御方法。 https://www.hacksplaining.com/
 
 ---
 

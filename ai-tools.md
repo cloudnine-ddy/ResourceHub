@@ -36,5 +36,10 @@ A categorized list of AI tools that help with coding, design, research, producti
 
 ---
 
+## 🪄 Prompt Engineering / 提示词工程
+- **YouMind (Nano Banana)** — A high-quality AI prompt library and optimization gallery. https://youmind.com/zh-CN/nano-banana-pro-prompts
+
+---
+
 ## 📝 Notes / 备注
 (Optional)

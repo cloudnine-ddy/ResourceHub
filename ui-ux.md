@@ -17,6 +17,7 @@ A curated collection of design-related tools, inspiration sites, color palette g
 
 ## 🎨 Color Tools / 配色工具
 - **ColorFuse AI** — AI color palette generator. https://colorfuseai.com/
+- **Happy Hues** — Curated color palettes with real-world examples of how to apply them. / 带有实际应用示例的精选配色方案。 https://www.happyhues.co/
 
 
 ---
